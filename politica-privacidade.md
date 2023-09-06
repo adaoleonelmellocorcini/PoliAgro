@@ -1,6 +1,6 @@
-# Política de Privacidade do Aplicativo Mobile
+# Política de Privacidade do Aplicativo
 
-Agradecemos por utilizar nosso aplicativo mobile. Esta Política de Privacidade descreve como tratamos as informações quando você utiliza nosso aplicativo, bem como seus direitos e opções relacionados à privacidade. Por favor, leia atentamente as informações a seguir.
+Agradecemos por utilizar nosso aplicativo PoliAgro. Esta Política de Privacidade descreve como tratamos as informações quando você utiliza nosso aplicativo, bem como seus direitos e opções relacionados à privacidade. Por favor, leia atentamente as informações a seguir.
 
 ## Coleta de Informações
 
@@ -30,4 +30,4 @@ Podemos atualizar esta Política de Privacidade ocasionalmente, publicando uma v
 
 Se você tiver dúvidas, preocupações ou sugestões sobre nossa Política de Privacidade ou sobre o uso de nosso aplicativo, entre em contato conosco por meio dos canais de suporte disponibilizados no aplicativo.
 
-Esta política de privacidade é efetiva a partir de [data de entrada em vigor].
+Esta política de privacidade é efetiva a partir de 06 de setembro de 2023.
